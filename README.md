@@ -1,2 +1,2 @@
 # among-us-simulation-in-c
-I HAVE NO IDEA
+I HAVE IDEA
